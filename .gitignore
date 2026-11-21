@@ -1,0 +1,26 @@
+de/
+docs/
+es/
+fr/
+hu/
+it/
+javascripts/
+jp/
+pl/
+pt_br/
+ro/
+ru/
+<<<<<<< HEAD
+stylesheets/
+=======
+>>>>>>> f57f0da41620118a51ca64a579a346d4469f255b
+tr/
+ur/
+zh_cn/
+zh_tw/
+faq.html
+favicon.ico
+howto_platform_links.html
+howto_shared_links.html
+howto.html
+index.html
