@@ -1,0 +1,2 @@
+# Animal-kingdom-an-e-commerce-website-for-pet-animals-and-their-accessories
+Animal Kingdom is a web-based e-commerce platform for pet animals and accessories, built with HTML, CSS, JavaScript, PHP, and MySQL. It allows customers to browse pet products, explore categories, add items to a shopping cart, place orders, and submit pet adoption requests. An admin panel supports product, category, user, and order management.
